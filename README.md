@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodrigoaled
+- 👋 Hi, I’m Rodrigo Neto
 - 👀 I’m interested in Web Develepment
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on projects in real life
